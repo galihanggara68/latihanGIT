@@ -1,3 +1,1 @@
-latihan aja
-test  by citra
-karina mawardah 
+ini pensil ini permen dari pada gigit pensil mending gigit permen 

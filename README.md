@@ -1,2 +1,1 @@
-# latihanGIT
-Ini repository latihan github
+latihan aja

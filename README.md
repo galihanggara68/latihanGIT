@@ -1,2 +1,1 @@
-# latihanGIT
-Ini repository latihan GIT
+latihan hub al faenia maulida

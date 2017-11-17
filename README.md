@@ -1,2 +1,2 @@
 # latihanGIT
-Ini repository latihan github
+Ini repository latihan GIT
